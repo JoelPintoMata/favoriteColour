@@ -1,0 +1,7 @@
+
+T
+squid:S1069"9Replace this use of System.out or System.err by a logger.(É”¬Éýÿÿÿÿ
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(Å®ç×
+1squid:S1220""Move this file to a named package.
+Wsquid:CallToDeprecatedMethod."/Remove this use of "foreach"; it is deprecated.(Å®ç×
